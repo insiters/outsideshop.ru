@@ -1,14 +1,16 @@
+#Платье Quelle MY STYLE 1026020
+Женщинам/Платья/Летние платья
+Миди с рисунком клетку. Круглый вырез и короткие рукава с узкой контрастной окантовкой. Приталенный силуэт. Застегивается на пуговицы спереди. Длина ок. 120 см.
+Одежда, обувь и аксессуары/Женская одежда/Одежда/Платья
+Цена: 2319.00 руб
+Платье Quelle Quelle
+2899.00
+Цвет:многоцветный|Размер:34|Пол:Женский|Возраст:Взрослый|Материал:95% хлопок, 5% эластан
+true
+https://cdn4.statics.quelle.ru/default/produkt-images/_w450_h640_q80/r/u/mixed_assortment/5/5/3/5535f94b9e1a46695dbfa9442a184f3b.jpg
 
----
-layout: default
-modal-id: 4
-date: 2014-07-15
-img: game.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+vendor.model
 
----
-cribe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+https://ad.admitad.com/g/84582bebefa41cbabb724a2f625b4f/?i=5&ulp=https%3A%2F%2Fwww.quelle.ru%2Fwomen-fashion%2Fwomen-dresses%2Fsummer-dresses%2Fplate-r2242974-m391920-2.html
+
+
