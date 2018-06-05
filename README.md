@@ -1,7 +1,13 @@
 ## Welcome to GitHub Pages
 
 
-<iframe frameborder="0" style="border:none;width:600px;height:100px;" width="600" height="100" src="https://music.yandex.ru/iframe/#track/36740436/4633764/black/">Слушайте <a href='https://music.yandex.ru/album/4633764/track/36740436'>Seekers and Finders</a> — <a href='https://music.yandex.ru/artist/136704'>Gogol Bordello</a> на Яндекс.Музыке</iframe>
+
+
+Компактная камера WX350 с 20-кратным оптическим зумом. Снимайте яркие четкие фотографии благодаря матрице Exmor R CMOS.
+
+Наслаждайтесь четкими изображениями с низким уровнем шума благодаря процессору BIONZ X. Снимайте четкие крупные планы с помощью объектива Sony серии G и 20-кратного оптического зума
+
+Приложения PlayMemories для расширения творческих возможностей. Проявите творческий потенциал и мгновенно демонстрируйте снимки с помощью Wi-Fi и NFC
 
 ![Купить за 14 990¤](https://img.mvideo.ru/Pdb/10006047b.jpg)
 
