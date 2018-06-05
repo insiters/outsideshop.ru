@@ -3,7 +3,7 @@
 
 <iframe frameborder="0" style="border:none;width:600px;height:100px;" width="600" height="100" src="https://music.yandex.ru/iframe/#track/36740436/4633764/black/">Слушайте <a href='https://music.yandex.ru/album/4633764/track/36740436'>Seekers and Finders</a> — <a href='https://music.yandex.ru/artist/136704'>Gogol Bordello</a> на Яндекс.Музыке</iframe>
 
-![Jekyll Now Theme Screenshot](https://img.gazeta.ru/files3/941/8118941/shutterstock_311503394-pic668-668x444-15657.jpg)
+![Купить за 14 990¤](https://img.mvideo.ru/Pdb/10006047b.jpg)
 
 
 
