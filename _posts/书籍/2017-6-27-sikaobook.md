@@ -2,12 +2,12 @@
 layout: blog
 book: true
 background-image: http://ot1cc1u9t.bkt.clouddn.com/17-7-17/89166189.jpg
-title:  "思考快与慢"
+title:  "Заголовок статьи 1"
 date:   2017-06-27
-category: 书籍
+category: Категория 1
 tags:
-- 思考
-- 快与慢
+- тег 1
+- тег 2
 excerpt: "выдержка 1"
 ---
 
