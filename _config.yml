@@ -1,38 +1,8 @@
-# ----------- CONFIGURABLE START -----------
-title:            "OutSideShop"
-description:      "Интернет-магазин OutSideShop"
-url:              http://outsideshop.ru # 域名
-signoff:          "insiters" # Your name
-facebook_appid:   #liberxue
-google_analytics: UA-101222464-1
-share:            true 
-# 分页
-paginate: 15
-paginate_path: "liberxuepage:num"
-gems: [jekyll-paginate]
-links:
-  - name:         Главная
-    url:          /
-    external:     false
-  - name:         Категория 1
-    url:          /book
-    external:     false
-  - name:         Категория 2
-    url:          /road
-    external:     false
-  - name:         Архив
-    url:          /archives
-    external:     false
-  - name:         Теги
-    url:          /tags
-    external:     false
-  - name:         О магазине
-    url:          /about
-    external:     false
-# ------------ CONFIGURABLE END ------------
-
-#permalink:        /:categories/:title.html
-permalink: /:year/:month/:day/:title.html
-defaults:
-  - values:
-      layout: "default"
+name: Photo gallery
+markdown: redcarpet
+pygments: true
+permalink: /:year/:month/:title/
+url: https://iamnii.github.io/GridGallery/
+author:
+    name: Adjetey Sowah
+    twitter: #
