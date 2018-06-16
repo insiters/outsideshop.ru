@@ -1,20 +1,24 @@
-# Jekyll Smart Material
+#Mr.Brown is a responsive Jekyll theme
+=========================
 
-Slick Material Design theme for [Jekyll](https://jekyllrb.com/) powered by [Material Design Lite v.1.2.1](https://getmdl.io/components/index.html).
+![](assets/images/mr.brown.jpg)
 
-## Live demo
+# Demo
+View this jekyll theme in action [here](http://artemsheludko.pw/mr-brown/)
 
-[https://ssokurenko.github.io/jekyll-smart-material](https://ssokurenko.github.io/jekyll-smart-material/)
+Integrations
+  - [Google Fonts](https://fonts.google.com/)
+  - [Disqus](https://disqus.com/)
+  - [txtpen](https://txtpen.com/)
+  - [Font Awesome](http://fontawesome.io/)
+  - Social media links
 
-![screenshot](screenshot.png)
+# How to Use
 
+  For those unfamiliar with how Jekyll works, check out [jekyllrb.com](https://jekyllrb.com/) for all the details,
+  or read up on just the basics of [front matter](https://jekyllrb.com/docs/frontmatter/), [writing posts](https://jekyllrb.com/docs/posts/),
+  and [creating pages](https://jekyllrb.com/docs/pages/).
 
-## Local deployment for development and testing
+## License
 
-Fork or clone the project: `https://github.com/ssokurenko/jekyll-smart-material.git`
-
-Install Jekyll: `sudo gem install jekyll`
-
-Open the project folder: `cd jekyll-smart-material`
-
-Run local Jekyll server: `jekyll serve`, it will be available at: [http://127.0.0.1:4000/](http://127.0.0.1:4000/).
+MIT License

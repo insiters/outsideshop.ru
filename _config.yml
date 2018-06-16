@@ -1,17 +1,16 @@
-# Site settings
-title: Smart Material Theme
-email: your-email@domain.com
-description: Slick Material Design theme for Jekyll powered by Material Design Lite.
-baseurl: "/jekyll-smart-material" # the subpath of your site, e.g. /blog/
-url: "http://ssokurenko.github.io" # the base hostname & protocol for your site
-copyright: '&copy; 2015-2016 Smart Material Theme'
+title: Mr.Brown
+description: Mr.Brown is a responsive jekyll theme
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+permalink: ':title/'
+baseurl: "/mr-brown" # the subpath of your site, e.g. /blog
 
-# Build settings
-markdown: kramdown
+# Comments
+discus_identifier: mr-brown
+txtpen_identifier: raizer85
 
-# Custom theme could be generated at: https://getmdl.io/customize/index.html
-material_theme: blue-deep_orange
-
-# Google Analytics account ID (UA-XXXXXXXX-X)
-
-google-analytics-ua: UA-84475574-1
+# Social settings
+twitter_url: https://twitter.com/artemsheludko_
+facebook_url: https://facebook.com/
+googleplus_url: https://plus.google.com/
+instagram_url: https://instagram.com
+github_url: https://github.com/artemsheludko/

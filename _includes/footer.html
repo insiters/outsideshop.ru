@@ -1,22 +1,29 @@
-<footer class="mdl-mini-footer">
-    <div class="mdl-mini-footer__left-section">
-        <p>
-            {{ site.description }}
-        </p>
-        <ul class="mdl-mini-footer__link-list">
-            <li>
-                <a href="{{ site.baseurl }}/">Home</a>
-            </li>
-            {% for page in site.pages %}
-            {% if page.title %}
-            <li>
-                <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
-            </li>
-            {% endif %}
-            {% endfor %}
-        </ul>
-        <div class="copyright">
-            {{ site.copyright }} | Design:&nbsp;<a href="https://github.com/ssokurenko/jekyll-smart-material">Jekyll&nbsp;Smart&nbsp;Material</a>
-        </div>
-    </div>
+<footer class="footer">
+  <div class="footer-social">
+    <ul class="social-icons">
+      {% if site.twitter_url %}
+      <li><a href="{{ site.twitter_url }}"><i class="fa fa-twitter-square" aria-hidden="true"></i></a></li>
+      {% endif %}
+      {% if site.facebook_url %}
+      <li><a href="{{ site.facebook_url }}"><i class="fa fa-facebook-official" aria-hidden="true"></i></a></li>
+      {% endif %}
+      {% if site.googleplus_url %}
+      <li><a href="{{ site.googleplus_url }}"><i class="fa fa-google-plus-square" aria-hidden="true"></i>
+</a></li>
+      {% endif %}
+      {% if site.instagram_url %}
+      <li><a href="{{ site.instagram_url }}"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+      {% endif %}
+      {% if site.github_url %}
+      <li><a href="{{ site.github_url }}"><i class="fa fa-github-square" aria-hidden="true"></i></a></li>
+      {% endif %}
+    </ul>
+    <ul class="copyright">
+      <li>2017 @ Mr.Brown Theme</li>
+      <li>
+        Author: <a href="#">Artem Sheludko</a>
+      </li>
+    </ul>
+  </div>
+  <div class="footer-newsletter"></div>
 </footer>
