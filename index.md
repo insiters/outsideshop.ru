@@ -1,15 +1,40 @@
 
+---
+title: Заголовок категории 1
+description: "Описание категории 1"
+---
 
+<div class="main-content index-page clearfix ">
+	<div class="post-lists">
+		<div class="post-lists-body">
+	  {% for posts in site.posts %}
+	   {% if posts.book%}
+		<div class="post-list-item">
+				<div class="post-list-item-container">
+					 <div class="item-thumb  bg-{{posts.background }}" style="background-image:url('{{posts.background-image }}');"></div>
+          	<a href="{{ posts.url }}">
+	             <div class="item-desc">
+		<p>{{ posts.content | strip_html | strip_newlines | truncate: 100 }}</p>
+						</div>
+					</a>
+					<div class="item-slant reverse-slant  bg-{{ posts.background }}"></div>
+					<div class="item-slant"></div>
+					<div class="item-label">
+						<div class="item-title"><a href="{{ posts.url }}">{{ posts.title }}</a></div>
+						<div class="item-meta clearfix">
+						<div class="item-meta-ico bg-ico-book" style="background: url('../style/images/bg-ico.png') no-repeat;background-size: 40px auto;"></div>
+              <div class="item-meta-cat">
+				 <a href="category/thoughts/index.html" title="访问 {{  posts.category }}"  data-hover="{{ posts.category }}">{{ posts.category }}</a>
+				 <a href="category/thoughts/index.html" title="访问 {{ posts.date | date: "%Y"}}" data-hover="{{ posts.date | date: "%F %H:%M:%S "}}">{{ posts.date | date: "%F %H:%M:%S "}}</a></div>
+						</div>
+					</div>
+				</div>
+	  </div>
+			 {% endif %}
+       {% endfor %}
+	</div>
+	</div>
+  {% include pagination.html %}
 
-
-## Фотоаппарат компактный Sony CyberShot WX350 Black
-
-Компактная камера WX350 с 20-кратным оптическим зумом. Снимайте яркие четкие фотографии благодаря матрице Exmor R CMOS.
-
-Наслаждайтесь четкими изображениями с низким уровнем шума благодаря процессору BIONZ X. Снимайте четкие крупные планы с помощью объектива Sony серии G и 20-кратного оптического зума
-
-Приложения PlayMemories для расширения творческих возможностей. Проявите творческий потенциал и мгновенно демонстрируйте снимки с помощью Wi-Fi и NFC
-![Купить за 14 990¤](http://fas.st/2BBFp)
-# [Купить за 14 990 руб.](http://fas.st/U02o_5)
 
 
