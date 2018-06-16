@@ -1,13 +1,8 @@
-title: Jekyll-Store
-description: CMS-Free Ecommerce Solution
-baseurl: ''
-sass:
-  sass_dir: /assets/_sass
-  style: :compressed
-collections:
-  - features
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - LICENSE.txt
-  - CNAME
+name: Photo gallery
+markdown: redcarpet
+pygments: true
+permalink: /:year/:month/:title/
+url: https://iamnii.github.io/GridGallery/
+author:
+    name: Adjetey Sowah
+    twitter: #
