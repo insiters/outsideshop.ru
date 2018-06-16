@@ -1,47 +1,23 @@
 ---
 layout: default
 ---
-<div class="container">
-	<header class="clearfix">
-		<h1>{{ site.name }}</h1>
-	</header>
-	<div id="grid-gallery" class="grid-gallery">
 
-	<section class="grid-wrap">
-	<ul class="grid">
-		<li class="grid-sizer"></li><!-- for Masonry column width -->
-		{% for post in site.posts %}
-		<li>
-			<figure>
-				<img src="{{ site.url }}/img/thumb/{{ post.photo }}" alt="img"/>
-				<figcaption>
-					<h3>{{ post.caption_header}}</h3>
-					<p>{{ post.caption }}</p>
-				</figcaption>
-			</figure>
-		</li>
-		{% endfor %}
-	</ul>
-	</section><!-- // grid-wrap -->
+<div class="mdl-grid">
+  {% for post in site.posts %}
+    <div class="mdl-cell mdl-cell--4-col mdl-cell--4-col-tablet mdl-cell--12-col-phone post-block">
+      <a href="{{ post.url | prepend: site.baseurl }}">
+        <div class="post-card mdl-shadow--2dp">
+          <img src="./assets/images/{{ post.image }}"/>
+          <div class="mdl-card__title">
+            <h2 class="mdl-card__title-text">{{ post.title }}</h2>
+          </div>
 
-	<section class="slideshow">
-	<ul>
-		{% for post in site.posts %}
-		<li>
-			<figure>
-				<img src="{{ site.url }}/img/large/{{ post.photo }}" alt="img"/>
-				<figcaption><h3>{{ post.caption_header}}</h3><p>{{ post.caption }}</p></figcaption>
-			</figure>
-		</li>
-		{% endfor %}
-	</ul>
-	<nav>
-		<span class="icon nav-prev"></span>
-		<span class="icon nav-next"></span>
-		<span class="icon nav-close"></span>
-	</nav>
-	<div class="info-keys icon">Navigate with arrow keys</div>
-	</section><!-- // slideshow -->
-
-	</div><!-- // grid-gallery -->
+          <div class="mdl-card__supporting-text">
+            {{ post.description }}
+          </div>
+          <div class="post-card__fade"></div>
+        </div>
+      </a>
+  </div>
+  {% endfor %}
 </div>
