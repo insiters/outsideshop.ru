@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Лучшие балетки в интернет-магазине!"
-description: Готовимся к весне-лету 2018 — лучшие балетки в интернет-магазине!.
+description: Готовимся к весне-лету 2018 — лучшие балетки в интернет-магазине!
 date: 2018-08-12
 categories: technology update
 img: \assets\images\keybord.jpg
