@@ -3,7 +3,7 @@ layout: post
 title:  Модные Босоножки Весна-Лето 2018
 description: Готовимся к весне-лету 2018 — Босоножки в интернет-магазине!
 date: 2018-08-12
-categories: technology update
+categories: Обувь
 img: \assets\images\bosonojki.jpg
 author: outsideshop
 ---

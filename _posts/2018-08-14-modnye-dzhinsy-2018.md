@@ -3,7 +3,7 @@ layout: post
 title: Модные Джинсы 2018
 description: Впереди теплый сезон, так что без джинсовых брюк белого цвета вам просто не обойтись, к тому же это модный тренд 2018.
 date: 2018-08-14
-categories: technology update
+categories: Одежда
 img: \assets\images\modnye-dzhinsy-2018.jpg
 author: outsideshop
 ---
